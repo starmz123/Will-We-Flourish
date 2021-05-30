@@ -12,9 +12,9 @@
 <body>
 <tw-story><noscript><tw-noscript>JavaScript needs to be enabled to play Choose Our Future.</tw-noscript></noscript></tw-story>
 <tw-storydata name="Choose Our Future" startnode="1" creator="Twine" creator-version="2.3.14" ifid="567F8545-4A3E-4945-A6B9-806B8AAB8869" zoom="0.6" format="Harlowe" format-version="3.2.2" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">
-body {
-  font-family: 'Saira Semi Condensed', sans-serif;
-  font: 'Saira Semi Condensed', sans-serif;
+/* Overriding Harlow defaults */
+.passage {
+  font-family: 'Saira Semi Condensed', sans-serif !important;
 } 
 
 img {
@@ -23,7 +23,19 @@ img {
 }
 
 a {
-  color: #84BDCA;
+  color: #84BDCA !important;
+}
+
+a.internalLink, a.externalLink {
+  color: #84BDCA !important;
+}
+
+a.internalLink:hover, a.externalLink:hover {
+  color: #84BDCA !important;
+}
+
+a.internalLink:active, a.externalLink:active {
+  color: #84BDCA !important;
 }
 </style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Introduction" tags="" position="405,169" size="100,100"><img src="https://i.imgur.com/QgSEXy2.png">
 
