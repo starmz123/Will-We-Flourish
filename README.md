@@ -1,4 +1,4 @@
-I created a piece of hypertext fiction, tentatively titled <em>Will We Flourish?</em> <em>A Choose-Our-Shared-Future.</em>
+I created a piece of hypertext fiction, tentatively titled <a href="https://starmz123.github.io/Will-We-Flourish/"><em>Will We Flourish?</em> <em>A Choose-Our-Shared-Future.</em> (click to read!)</a>
 
 Hypertext fiction allows the reader to affect the narrative they are reading, similar to <a href="https://en.wikipedia.org/wiki/Gamebook">choose-your-own-adventure</a> gamebooks but with little to no gamification. <em>Will We Flourish?</em> also includes research and collaborative elements as I ask for your feedback on, and potential improvements to, the cases that these narratives made for [working on] existential risk. In summary, my fiction piece can be divided into three sections.
 <ol>
